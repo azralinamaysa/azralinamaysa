@@ -1,4 +1,4 @@
-<a href="#"><img width="50%" height="auto" src="https://i.pinimg.com/564x/24/98/2c/24982c485e1d9cefd7091a2a9ca70c53.jpg" height="50px"/></a>
+<a href="#"><img width="50%" height="auto" src="https://i.pinimg.com/564x/24/98/2c/24982c485e1d9cefd7091a2a9ca70c53.jpg" height="20px"/></a>
 
 # 💫 About Me:
 Hi!🙌🏻<br>I'm Azralina. I'm from Indonesia.<br>🎓 I'm currently studying geophysics at Gadjah Mada University<br>📖 I'm currently learning Python.<br>✉️ How to reach me : azralinamaysa@gmail.com<br>
